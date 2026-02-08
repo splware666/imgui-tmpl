@@ -1,0 +1,3 @@
+C:/repos/imgui-tmpl/build/CMakeFiles/imguiTmpl.dir
+C:/repos/imgui-tmpl/build/CMakeFiles/edit_cache.dir
+C:/repos/imgui-tmpl/build/CMakeFiles/rebuild_cache.dir
