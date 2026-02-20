@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/repos/imgui-tmpl/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
